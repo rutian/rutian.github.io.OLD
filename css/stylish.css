@@ -1,0 +1,257 @@
+
+@import url(http://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic);
+
+	body {
+		width: 900px;
+		height: auto;
+		margin-left: 50px; 	margin-top:5px;
+		padding: 0px;
+
+		/*fonts*/
+		font-family: 'Lato',  Verdana; 	font-size:14px;	font-weight:300;
+		color:#000;
+		background-color:#FBFCFD;	
+		/* alternate colors? */
+		/*background-color:#FBFCFD;*/
+	}
+
+/***************************
+for the main navigation bar
+****************************/
+	#header{
+		position:absolute;
+		height: 700px;
+		width: 200px;
+		margin-top:20px;			
+	}
+
+	#header #name a{
+		font-size: 16px;    
+		font-weight: 400;  
+		text-decoration:none;
+		color:#000;
+	}
+
+
+	/*navigation and whatnots in the header*/
+	#nav{ 
+		position:absolute;
+		/*text-transform:lowercase;*/
+		margin-top: 10px;
+		margin-left:0px;
+		padding-left: 0px;
+		width:100%;		
+	}
+
+	#nav li.selected a { color:#057AA0;}
+
+	#nav li{		
+		display:block;
+		width:auto;
+	}
+
+	#nav li a{
+		color:#000;
+		text-decoration:none;
+		font-size:14px;
+	}
+
+	#nav li a:hover{
+		color:#057AA0;
+	}
+
+/***************************
+the bar, splitting vertical things 
+***************************/
+
+hr {
+	background-color:#212638
+	width: 100% /*or 687 px workaround */
+	height: 1px;
+}
+
+/**********************************
+for content boxes, general text
+***********************************/
+	#content{
+		position:absolute;
+		width: 900px;
+		margin-left:200px;
+		margin-top: 120px;
+		padding: 0px;
+		text-align: justify;
+		display: block;
+	}
+
+	/* main page title */
+	#content h1{  
+		font-size: 18px;
+		font-style: normal;
+		font-weight: 400;
+		margin-bottom: 10px;
+		margin-top:10px;
+		width: auto;
+		height: auto;
+	}
+
+	/* subtitle */
+	#content h2{  
+		font-size:16px;
+		font-weight:300;
+		margin-top:5px;
+		margin-bottom:5px;
+	}
+
+	#content strong{
+		font-weight: 400;
+	}
+
+	#content a{
+		color:#000;
+		text-decoration:none;
+		font-size:14px;
+		border-bottom: 1px dotted;
+	}
+
+	#content a:hover{
+		color:#057AA0;
+	}
+
+/*****************************
+* footer in content
+******************************/
+	#footer{
+		margin-top: 50px;
+		margin-bottom:15px;
+		text-align: center;
+	}
+
+/******************************************
+* content listings (for main landing pages)
+******************************************/
+
+	.listing_rapper{
+		display: inline-block;
+		width: 100%;
+		position: relative;
+		height: auto;
+		margin-bottom: 70px;
+	}
+
+        /*******************
+	* 2 Column
+	********************/
+	#content .listing_half{
+		position: relative;
+		display: block;
+		width:50%;
+		height:233px;
+		float:left;
+		margin-bottom:20px;
+	}
+
+
+	.listing_half img{
+		width: 100%;
+		height: 225px;
+		display:block;
+	}
+ 	
+	/* for the text in the listing */
+	.listing_half p{
+		margin: 0px; 
+		font-weight:400;
+
+	}
+
+        /*******************
+	* 3 Column
+	********************/
+	#content .listing_third{
+		position: relative;
+		display: block;
+		width:233px;
+		height:155px;
+		float:left;
+		margin-bottom:20px;
+	}
+
+	.listing_third img{
+		width: 220px;
+		height: 165px; /* 4/3 ratio*/
+		display:block;
+		margin-bottom: 0px;
+	}
+
+	.listing_third p{
+		width:200px;
+		margin-left:0px; 
+		margin-top: 0px;
+		font-weight:400;		
+	}
+
+        /*******************
+	* 4 Column
+	********************/
+	#content .listing_four{
+		position: relative;
+		display: block;
+		width:233px;
+		height:155px;
+		float:left;
+		margin-bottom:20px;
+	}
+
+	.listing_four img{
+		width: 220px;
+		height: 165px; /* 4/3 ratio*/
+		display:block;
+		margin-bottom: 0px;
+	}
+
+	.listing_four p{
+		width:200px;
+		margin-left:0px; 
+		margin-top: 0px;
+		font-weight:400;		
+        }	
+/*****************************************************
+* content image side by side with text eg, on homepage
+******************************************************/
+
+	#content .inline_pic_and_text{
+		display:block;
+		margin-bottom: 5px;
+		width:inherit;
+		height:300px;
+	}
+	
+	.inline_pic_and_text img{
+		width: 280px;
+		height: auto;
+		display: block;
+		float: left;
+		margin-bottom: 100px;
+	}
+
+	.inline_pic_and_text p{
+		width:400px;
+		height: auto;
+		display:block;
+		margin: 0px;
+		padding-left: 10px;
+		float: left;
+		margin-bottom: 10px;
+	}
+
+/********************************
+* For images on specific projects
+********************************/
+	#content>p img{
+		width: 900px;
+		height: auto;
+		display: block;
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+
