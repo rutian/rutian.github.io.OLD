@@ -102,6 +102,19 @@ for content boxes, general text
 		margin-bottom:5px;
 	}
 
+	/* centered text */
+	#content h5{
+		font-size: 16px;
+		font-weight: 300;
+		text-align: center;
+
+	}
+
+	/* main text */
+	#content p{
+		margin-bottom:15px;
+	}
+
 	#content strong{
 		font-weight: 400;
 	}
@@ -252,6 +265,6 @@ for content boxes, general text
 		height: auto;
 		display: block;
 		margin-top: 5px;
-		margin-bottom: 5px;
+		margin-bottom: 15px;
 	}
 

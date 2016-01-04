@@ -1,11 +1,11 @@
 ---
 name: Digifab
 layout: default
-permalink: Digifab
 date: 2016-01-01 
 tags: laser_cutting, 3D_printing, rapid_fab
+permalink: other/test/
+published: false 
 ---
-
 
 #Digifab
 Making hardware with software.

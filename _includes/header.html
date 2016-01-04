@@ -2,9 +2,8 @@
 <div id="name"> <a  href="{{site.path}}/index.html"> RUNDONG TIAN</a> </div>
 
 <ul id="nav">   
-	<li class="selected" > <a  href="{{site.path}}/index.html">about</a> </li>
-	<li  ><a  href="{{site.path}}/research"> projects </a></li> 
-	<li  ><a  href="{{site.path}}/projects"> other </a></li>   
-	<li  ><a  href="{{site.path}}/projects"> contact </a></li> 
-
+	<li {%if page.title == 'Home' %} class="selected" {% endif %} ><a  href="{{site.path}}/index.html">about</a> </li>
+	<li {%if page.title == 'projects' or page.tags contains 'research' or page.tags contains 'class'%} class="selected" {% endif %} ><a  href="{{site.path}}/projects"> projects </a></li> 
+	<li {%if page.title == 'other' or page.tags contains 'other'  %} class="selected" {% endif %} ><a  href="{{site.path}}/other"> other </a></li>   
+	<li {%if page.title == 'contact' %} class="selected" {% endif %} ><a  href="{{site.path}}/contact"> contact </a></li> 
 </ul>
