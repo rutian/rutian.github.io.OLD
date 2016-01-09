@@ -1,46 +1,63 @@
 ---
-name: igifab
+name: Digifab
 layout: default
-date: 2016-01-01 
-tags: laser_cutting, 3D_printing, rapid_fab
+date: 2015-12-10
+tags: laser_cutting, 3D_printing, rapid_fab, class
+course_number: 294-118
+course_title: Computational Design + Fabrication
+course_instructor: Jonathan Bachrach
+
 ---
 
-
 #Digifab
-Making hardware with software.
 
+294-119: Computational Design + Fabrication with Jonathan Bachrach
 
-## Linkages
+Writing software to generate hardware designs for fabrication.
+
+Below are some mechanisms I designed in Python using the digifab library written by the course staff. 
+
+---
+
+## Linkages 
+
 Hoberman iris, open and close:
 
-![hoberman close](https://farm1.staticflickr.com/609/23534383689_9d07edcd04_k.jpg "optional title")
+![hoberman close](https://farm1.staticflickr.com/609/23534383689_7b2c420bca_c.jpg "optional title")
+
+![hoberman open]( https://farm1.staticflickr.com/648/23274068424_2ab00ea215_c.jpg "another title")
+
+Pantograph, scale ratio of 3:1
+
+![pantograph](https://farm6.staticflickr.com/5835/23876145646_270645c6b5_c.jpg "pantograph, 1 to 3")
 
 
-![hoberman open](https://farm1.staticflickr.com/648/23274068424_8db96f996d_k.jpg "another title")
+---
 
-pantograph, scale ratio of 3:1
+## Mechanisms 
 
-![pantograph](https://farm6.staticflickr.com/5835/23876145646_e8eb94710a_k.jpg "pantograph, 1 to 3" )
+Walker
+
+<iframe src="https://player.vimeo.com/video/150847665?color=ff0179&title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+![walker assembly](https://farm1.staticflickr.com/659/23735392771_5748e4022c_c.jpg "alt text")
+
+![walker family](https://farm1.staticflickr.com/772/23735384371_e7b613f019_c.jpg "family of walkers ")
+
+![ready to walk ](https://farm6.staticflickr.com/5626/23791754776_984567b8b9_c.jpg "walker assembled with gear")
+
+Papercraft gripper
+
+![gripper open](https://farm6.staticflickr.com/5833/23817856145_86a32dd8b3_c.jpg "open gripper")
+
+![gripper close](https://farm1.staticflickr.com/745/23791748756_7d91fbc6d2_c.jpg "closed paper gripper")
 
 
-## Mechanisms
+---
 
-Walker:
+## The stash
 
-![walker 6 leg attempt](https://farm1.staticflickr.com/769/23522166550_ceeb620a61_k.jpg " ")
+![the stash ](https://farm6.staticflickr.com/5698/23606567510_b50b29a767_b.jpg "the stash")
 
-![walker assembly](https://farm1.staticflickr.com/659/23735392771_c6cd93f4fb_k.jpg "alt text")
 
-![walker family](https://farm1.staticflickr.com/772/23735384371_f2c7228e4d_k.jpg " ")
-
-![ready to walk ](https://farm6.staticflickr.com/5626/23791754776_f115fd7939_k.jpg  "walker assembled with gear")
-
-Origami gripper
-
-![gripper open](https://farm6.staticflickr.com/5833/23817856145_8f9a116a7f_k.jpg "open gripper")
-![gripper close](https://farm1.staticflickr.com/745/23791748756_fb455b57c2_k.jpg "closed paper gripper")
-
-## Crazy Semester
-
-![the stash ](https://farm6.staticflickr.com/5698/23606567510_a386aac92b_k.jpg "the stash")
 

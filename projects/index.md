@@ -1,57 +1,63 @@
 ---
 layout: default
-title: projects 
+title: Projects 
 ---
 
 # Research #
 ---  
 
-  <div class="listing_rapper">
+<div class="listing_rapper">
 	<a href="/projects/sensorytriptych">
   		<div class="listing_half">  
-  			<img src="images/test.png">
+  			<img src="{{site.url}}/media/plane.jpg">
 			<p>Sensory Triptych</p>
   		</div>
 	</a>
   	
+	<div class="spacer"></div>
+	
 	<a href="/projects/mypart">
   		<div class="listing_half">  
-  			<img src="images/test.png">
+  			<img src="{{site.url}}/media/intro.jpg">
   			<p>Low Cost Air Particle Counter </p>
   		</div>
 	</a>
-  </div>
+</div>
+
 
 # Coursework #
 ---  
 
-  <div class="listing_rapper">
-  	
+<div class="listing_rapper">
+ 	
 	<a href="/projects/2Dmulti">
   		<div class="listing_third">  
-  			<img src="images/test.png">
-  			<p>2D multimaterial, 2015   </p>
+	  		<img src="{{site.url}}/media/gripper.jpg">
+  			<p>2D Multimaterial, 2015 </p>
   		</div>
 	</a>
 
+	<div class="spacer"></div>
+
 	<a href="/projects/digifab">
 	        <div class="listing_third">  
-	  		<img src="images/test.png">
+	  		<img src="{{site.url}}/media/family.jpg">
 	  		<p>Digifab, 2015</p>
 	  	</div>
 	</a>
+ 	
+	<div class="spacer"></div>
 
 	<a href="/projects/fish">
 		<div class="listing_third">  
-  			<img src="images/test.png">
-  			<p>FlipFlap, 2014  </p>
+	  		<img src="{{site.url}}/media/fish.jpg">
+  			<p>Animatronic Fish, 2014  </p>
   		</div> 
 	</a>
-  </div>
+</div>
  
- 
+<!-- 
 # Undergraduate Research #
----
 
   <div class="listing_rapper">
   
@@ -61,15 +67,19 @@ title: projects
   
   	</div>
   
+	<div class="spacer"></div>
+
   	<div class="listing_third">  
   		<img src="images/test.png">
   		<p>PolyPEDAL  (20xx - 20xx) </p>
   	</div>
   
+	<div class="spacer"></div>
+
 	<div class="listing_third">  
   		<img src="images/test.png">
   		<p>TDL  (20xx - 20xx) </p>
   	</div>
 </div>
-
+-->
 
