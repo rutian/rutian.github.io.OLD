@@ -1,5 +1,7 @@
 ---
 layout: default
+tags: other
+
 ---
 
 <!-- Directory for the bloggish posts --> 
@@ -12,10 +14,6 @@ layout: default
     </li>
   {% endfor %}
 </ul>
-
-
-
-
 
 
 

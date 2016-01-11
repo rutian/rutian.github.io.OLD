@@ -10,7 +10,8 @@ Another one week project from interactive device design.
 
 Quick draw game controller with period accurate single action fun. An accelerometer in the handle of the controller is used to determine the efficacy of your quickdraw. 
 
-VIDEO HERE (of controller single action)
+
+<iframe src="https://player.vimeo.com/video/151445000?color=ff0179&title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Assembling
 
@@ -22,6 +23,6 @@ Grooves for wiring and rubber bands
 
 Custom game created by Sean in Processing
 
-![default](    "custom quick draw game")
+![default]( {{site.url}}/media/quickdraw.png "custom quick draw game")
 
 

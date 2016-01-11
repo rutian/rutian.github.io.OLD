@@ -17,19 +17,7 @@ Writing software to generate hardware designs for fabrication.
 
 Below are some mechanisms designed in Python using the Digifab library written by the course staff. 
 
----
 
-## Linkages 
-
-Hoberman iris, open and close:
-
-![hoberman close](https://farm1.staticflickr.com/609/23534383689_7b2c420bca_c.jpg "optional title")
-
-![hoberman open]( https://farm1.staticflickr.com/648/23274068424_2ab00ea215_c.jpg "another title")
-
-Pantograph, scale ratio of 3:1
-
-![pantograph](https://farm6.staticflickr.com/5835/23876145646_270645c6b5_c.jpg "pantograph, 1 to 3")
 
 
 ---
@@ -51,6 +39,22 @@ Papercraft gripper
 ![gripper open](https://farm6.staticflickr.com/5833/23817856145_86a32dd8b3_c.jpg "open gripper")
 
 ![gripper close](https://farm1.staticflickr.com/745/23791748756_7d91fbc6d2_c.jpg "closed paper gripper")
+
+
+
+---
+
+## Linkages 
+
+Hoberman iris, open and close:
+
+![hoberman close](https://farm1.staticflickr.com/609/23534383689_7b2c420bca_c.jpg "optional title")
+
+![hoberman open]( https://farm1.staticflickr.com/648/23274068424_2ab00ea215_c.jpg "another title")
+
+Pantograph, scale ratio of 3:1
+
+![pantograph](https://farm6.staticflickr.com/5835/23876145646_270645c6b5_c.jpg "pantograph, 1 to 3")
 
 
 ---

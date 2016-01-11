@@ -8,8 +8,6 @@ One week project from interactive device design.
 
 Game controller text entry device:
 
-need the video..
-
 Self centering joysticks with rubber bands
 
 ![Self Centering](https://farm3.staticflickr.com/2814/9827121665_f0d720bf79_k.jpg)
