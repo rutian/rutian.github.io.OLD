@@ -19,18 +19,23 @@ layout: default
 
 <!-- Pagination links (navigation) -->
 <div class="pagination">
+   <div id="prev">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+   
+    <a href="{{ paginator.previous_page_path }}">Previous</a>
   {% else %}
-    <span class="previous"></span>
+    <span class="prev"></span>
   {% endif %}
-  <span class="page_number "> {{ paginator.page }} / {{ paginator.total_pages }}</span>
+   </div>
+  <div id="page_number"> {{ paginator.page }} / {{ paginator.total_pages }}</div>
+    <div id="next">
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+        <a href="{{ paginator.next_page_path }}" >Next</a>
   {% else %}
-    <span class="next "></span>
+    <span></span>
   {% endif %}
-</div>
+    </div>
+   </div>
 
 
 

@@ -309,26 +309,28 @@ for content boxes, general text
 /************************************************
 * navigation footer in pagination navigation 
 ************************************************/
-	.pagination .previous{
-		float: left;
+	
+	.pagination {
+		-webkit-flex;
+		display:flex;
+	}	
+	.pagination #prev{
+		width: auto;
+		margin-left: 0;
 	} 
-
-	.pagination .page_number{
-		display: inline-block;
-		margin: 0 auto;	
-		width:100px;
+	.pagination #page_number{
+		width: auto;
+		margin: auto;
 	}
-
-	.pagination .next{
-		float:right;
-
-
+	.pagination #next{
+		width: auto;
+		margin-right: 0;
+		float:left;
 	}
 
 /**************************
 * directory for the blog
 ***************************/
-
 	ul #blog_directory {
 		
 	}
