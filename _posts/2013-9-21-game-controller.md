@@ -4,9 +4,9 @@ tags: other
 permalink: other/game_controller
 ---
 
-Interactive device design
+One week project from interactive device design. 
 
-Game controller text entry device.
+Game controller text entry device:
 
 need the video..
 

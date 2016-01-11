@@ -6,6 +6,7 @@ tags: other
 
 **Created by:** Rundong Tian, Sean Arietta
 
+Another one week project from interactive device design.
 
 Quick draw game controller with period accurate single action fun. An accelerometer in the handle of the controller is used to determine the efficacy of your quickdraw. 
 
@@ -19,7 +20,7 @@ Grooves for wiring and rubber bands
 
 ![more assembly](https://farm8.staticflickr.com/7442/10095325343_55424fdc1b_k.jpg)
 
-Custom quickdraw game created by Sean
+Custom game created by Sean in Processing
 
 ![default](    "custom quick draw game")
 
