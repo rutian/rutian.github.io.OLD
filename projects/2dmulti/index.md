@@ -2,17 +2,28 @@
 layout: default
 title: 2d multi
 tags: class
+thanks: "Ethan Chiou"
 ---
 
 # Multimaterial Planar Stock
 
 Final project for Computational Design + Fabrication (CS294-119) with Jonathan Bachrach.
 
-In this project, I explored 
+Even as increasingly functional geometries are fabricated using multi-material 3D printers, a large set of 3D geometries are incompatible with 3D printing such as those of clothing and furniture.
+It is much more natural to decompose these geometries based on their constituent surfaces rather than at incremental layers along one axis. 
+Instead of attempting to 3D print these geometries, we can similarly leverage the benefits of multi-material printing by augmenting the planar materials these objects are made of. 
+As an example of multi-material 2D fabrication, we embroider stiffening threads into a stretchy fabric to control its stiffness in certain orientations. 
+This fabric is used to create inflatable actuators whose deformations are defined by the embroidered pattern. 
+A software program is created to generate the appropriate fabrication files from high level descriptions of mechanisms composed of these actuators.
 
 **special thanks:** Ethan Chiou
 
 ---
+
+## Video 
+
+take a video with the various actuators
+
 
 ##Poster
 

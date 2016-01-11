@@ -1,9 +1,8 @@
 ---
-layout: default
-tags: research, rapid_prototyping
-
+layout: research_project 
+tags: research 
+title: Sensory Triptych
 ---
-
 
 # Sensory Triptych
 
@@ -17,22 +16,22 @@ Sensory Triptych is a set of exploratory, interactive sensors designed for child
 
 ## Digger
 
-![autosize](https://farm4.staticflickr.com/3932/15245157278_0d2049b0f1_c.jpg  "toy truck ")
+![default](https://farm4.staticflickr.com/3932/15245157278_0d2049b0f1_c.jpg  "toy truck ")
 
 ## Boat
 
-![autosize](https://farm6.staticflickr.com/5597/15245206467_6544c87962_c.jpg "boat")
+![default](https://farm6.staticflickr.com/5597/15245206467_6544c87962_c.jpg "boat")
 
 ## Plane
 
-![autosize](https://farm3.staticflickr.com/2946/15408695856_93660fa30f_c.jpg "plane")
+![default](https://farm3.staticflickr.com/2946/15408695856_93660fa30f_c.jpg "plane")
 
 ## Watch
 
-![autosize](https://farm6.staticflickr.com/5601/15245154288_47579b6c3d_c.jpg "watch unassembled")
+![default](https://farm6.staticflickr.com/5601/15245154288_47579b6c3d_c.jpg "watch unassembled")
 
 ## Satellite Tracker pan tilt base
 
-![autocenter](https://farm4.staticflickr.com/3927/15245064270_576fc7b398_c.jpg "satellite tracker")
+#![fivehundred](https://farm4.staticflickr.com/3927/15245064270_576fc7b398_c.jpg "satellite tracker")
 
 

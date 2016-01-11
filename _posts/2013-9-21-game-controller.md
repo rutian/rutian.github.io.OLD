@@ -4,11 +4,11 @@ tags: other
 permalink: other/game_controller
 ---
 
+Interactive device design
 
-## Interactive device design ##
+Game controller text entry device.
 
 need the video..
-
 
 Self centering joysticks with rubber bands
 

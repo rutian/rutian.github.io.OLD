@@ -33,7 +33,6 @@ for the main navigation bar
 		color:#000;
 	}
 
-
 	/*navigation and whatnots in the header*/
 	#nav{ 
 		position:absolute;
@@ -286,6 +285,16 @@ for content boxes, general text
 		margin: auto;
 	}
 
+	/* smaller width*/
+	#content h1>img[alt=fivehundred]{
+		width: 500px;
+		display: block;
+		margin: auto;
+	}
+
+
+
+
 /******************************
 * for the iframe videos
 *******************************/
@@ -294,4 +303,32 @@ for content boxes, general text
 		margin-top:0px;
 		margin-bottom:15px;
 	
+	}
+
+
+/************************************************
+* navigation footer in pagination navigation 
+************************************************/
+	.pagination .previous{
+		float: left;
+	} 
+
+	.pagination .page_number{
+		display: inline-block;
+		margin: 0 auto;	
+		width:100px;
+	}
+
+	.pagination .next{
+		float:right;
+
+
+	}
+
+/**************************
+* directory for the blog
+***************************/
+
+	ul #blog_directory {
+		
 	}

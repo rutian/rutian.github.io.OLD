@@ -3,19 +3,19 @@ name: Digifab
 layout: default
 date: 2015-12-10
 tags: laser_cutting, 3D_printing, rapid_fab, class
-course_number: 294-118
-course_title: Computational Design + Fabrication
-course_instructor: Jonathan Bachrach
+course_number: "CS294-118"
+course_title: "Computational Design + Fabrication"
+course_instructor: "Jonathan Bachrach"
 
 ---
 
 #Digifab
 
-294-119: Computational Design + Fabrication with Jonathan Bachrach
+CS294-119: Computational Design + Fabrication with Jonathan Bachrach
 
 Writing software to generate hardware designs for fabrication.
 
-Below are some mechanisms I designed in Python using the digifab library written by the course staff. 
+Below are some mechanisms designed in Python using the Digifab library written by the course staff. 
 
 ---
 

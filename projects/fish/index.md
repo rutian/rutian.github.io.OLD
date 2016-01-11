@@ -1,7 +1,9 @@
 ---
+name: Fish
 layout: default
 tags: class 
 title: Fish
+
 ---
 
 # Animatronic Fish #
@@ -10,7 +12,7 @@ Final project for embedded systems (CS249A).
 
 Turning an Ikea fish pillow into an animatronic toy. 
 
-**Created by**: Rundong Tian, Ryan Feng, Eric O'neill
+**Created by**: Rundong Tian, Ryan Feng, Eric O'neil
 
 ---
 
