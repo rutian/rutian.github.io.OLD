@@ -1,8 +1,7 @@
 ---
 layout: default
-title: 2d multi
+title: 2D Multi
 tags: class
-thanks: "Ethan Chiou"
 ---
 
 # Multimaterial Planar Stock
@@ -55,6 +54,6 @@ take a video with the various actuators
 
 **From top to bottom:** nylon tubing barb to male thread, laser cut acrylic nut, laser cut acrylic washer, 3D printed balloon barb, balloon receiver. 
 
-![fourhundred](https://farm2.staticflickr.com/1574/24329587275_a6c444a676_h.jpg "exploded drawing of the balloon adapter") 
+#![fourhundred](https://farm2.staticflickr.com/1574/24329587275_a6c444a676_h.jpg "exploded drawing of the balloon adapter") 
 
 
