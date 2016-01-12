@@ -50,3 +50,11 @@ take a video with the various actuators
 ## Interface between the balloon and the fabric 
 
 ![bladder](https://farm1.staticflickr.com/666/23615012285_f26264a37b_b.jpg "balloon adapter")
+
+## Exploded view of the balloon adapter
+
+**From top to bottom:** nylon tubing barb to male thread, laser cut acrylic nut, laser cut acrylic washer, 3D printed balloon barb, balloon receiver. 
+
+![fourhundred](https://farm2.staticflickr.com/1574/24329587275_a6c444a676_h.jpg "exploded drawing of the balloon adapter") 
+
+

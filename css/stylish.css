@@ -286,13 +286,18 @@ for content boxes, general text
 	}
 
 	/* smaller width*/
-	#content h1>img[alt=fivehundred]{
-		width: 500px;
+	#content h1>img{
 		display: block;
 		margin: auto;
 	}
 
+	#content img[alt=fivehundred]{
+		width: 500px;
+	}
 
+	#content img[alt=fourhundred]{
+		width: 400px;
+	}	
 
 
 /******************************

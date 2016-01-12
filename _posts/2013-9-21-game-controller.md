@@ -12,6 +12,10 @@ Self centering joysticks with rubber bands
 
 ![Self Centering](https://farm3.staticflickr.com/2814/9827121665_f0d720bf79_k.jpg)
 
+The joysticks 
+
+![joysticks]({{site.url}}/media/drumsticks.jpg)
+
 Copper tape as contact sensors
 
 ![Cu](https://farm8.staticflickr.com/7422/9827133806_a69c072575_k.jpg)
