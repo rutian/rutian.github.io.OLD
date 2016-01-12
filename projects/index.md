@@ -30,7 +30,7 @@ title: Projects
 
 <div class="listing_rapper">
  	
-	<a href="/projects/2Dmulti">
+	<a href="/projects/2dmulti">
   		<div class="listing_third">  
 	  		<img src="{{site.url}}/media/gripper.jpg">
   			<p>2D Multimaterial, 2015 </p>
