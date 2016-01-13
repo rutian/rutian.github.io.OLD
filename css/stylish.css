@@ -1,20 +1,41 @@
 ---
+# Color palette 
+colorA: "#FBFCFD" #background
+colorB: "#777777" #dark gray
+colorC: "#asdffd" #other thing 2
+colorD: "#adfdwf" #other thing 3 
+colorE: "#adfded" #other thing 4
 
 ---
 @import url(http://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic);
 
 	body {
-		width: 800px;
+		width: auto;
 		height: auto;
 		margin-left: 50px; /*offset everything to the right */ 
 		padding: 0px;
-	 	/*fonts*/
+	 	
+		/*fonts*/
 		font-family: 'Lato',  Verdana; 
 		font-size:14px;	
 		font-weight:300;
 		color:#000;
-		background-color:#FBFCFD;	
+		
+		background-color:{{page.colorA}};
 	}
+
+
+	body a{
+		color:#000;
+		text-decoration:none;
+		font-size:14px;
+		border-bottom: 1px dotted;
+	}
+
+	body a:hover{
+		color:#057AA0;
+	}
+
 
 /***************************
 for the main navigation bar
@@ -31,6 +52,7 @@ for the main navigation bar
 		font-weight: 400;  
 		text-decoration:none;
 		color:#000;
+		border-bottom: none;
 	}
 
 	/*navigation and whatnots in the header*/
@@ -54,6 +76,7 @@ for the main navigation bar
 		color:#000;
 		text-decoration:none;
 		font-size:14px;
+		border-bottom:none;
 	}
 
 	#nav li a:hover{
@@ -65,7 +88,7 @@ the bar, splitting vertical things
 ***************************/
 
 hr {
-	background-color:#2d3b53;
+	background-color:{{page.colorB}};
 	border: 0px;
 	width: 100%;
 	height: 1px;
@@ -98,6 +121,12 @@ for content boxes, general text
 		height: auto;
 	}
 
+	h1 a{
+		font-size: 16px;
+		border-bottom:1px solid;
+
+	}
+
 	/* subtitle */
 	h2{  
 		font-size:16px;
@@ -125,16 +154,6 @@ for content boxes, general text
 		font-weight: 400;
 	}
 
-	#content a{
-		color:#000;
-		text-decoration:none;
-		font-size:14px;
-		border-bottom: 1px dotted;
-	}
-
-	#content a:hover{
-		color:#057AA0;
-	}
 
 
 /****************************
@@ -299,6 +318,9 @@ for content boxes, general text
 		width: 400px;
 	}	
 
+	#content img[alt=threehundred]{
+		width: 300px;
+	}
 
 /******************************
 * for the iframe videos
@@ -310,6 +332,16 @@ for content boxes, general text
 	
 	}
 
+/********************
+* post pages
+********************/
+
+
+	.posts h1{
+
+
+	}
+
 
 /************************************************
 * navigation footer in pagination navigation 
@@ -318,7 +350,12 @@ for content boxes, general text
 	.pagination {
 		-webkit-flex;
 		display:flex;
+		margin-bottom:30px;
 	}	
+	
+	.pagination a{
+		border-bottom: none;
+	}
 	.pagination #prev{
 		width: auto;
 		margin-left: 0;
@@ -336,6 +373,15 @@ for content boxes, general text
 /**************************
 * directory for the blog
 ***************************/
-	ul #blog_directory {
-		
+	#blog_directory ul{
+		text-align:center;
+		text-decoration:none;
+		list-style-type:none;
+		padding: 0px;
+		margin: 0px;
+	}
+
+	#blog_directory li a{
+		text-decoration:none;
+		border-bottom:solid 1px;
 	}

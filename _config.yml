@@ -1,4 +1,4 @@
-paginate: 2 
+paginate: 1 
 
 paginate_path: "/other/page:num/"
 
