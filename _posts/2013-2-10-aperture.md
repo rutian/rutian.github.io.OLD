@@ -1,7 +1,6 @@
 ---
 layout: blog 
 title: Aperture
-permalink: other/aperture
 tags: other
 
 ---
