@@ -21,5 +21,5 @@ Magnets attach it to the whiteboard, where it can toggle the button to select th
 
 HDPE flexural linkage
 
-small video here
-![]()
+<iframe src="https://player.vimeo.com/video/151445000?color=ff0179&title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+

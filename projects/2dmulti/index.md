@@ -19,15 +19,12 @@ A software program is created to generate the appropriate fabrication files from
 
 ---
 
-## Video 
-
-take a video with the various actuators
-
-
 ##Poster
 
 ![Digifab poster](https://farm2.staticflickr.com/1464/24142201515_8dc44c9559_k.jpg)
 
+## Video 
+<iframe src="https://player.vimeo.com/video/174131133?color=ff0179&title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ##Valves
 
@@ -36,7 +33,6 @@ take a video with the various actuators
 ![tubing](https://farm1.staticflickr.com/772/23734461901_cabddd33c5_k.jpg)
 
 ![stacked valve](https://farm6.staticflickr.com/5814/23816930165_ca911a5d78_k.jpg)
-
 
 ## Gripper open
 
