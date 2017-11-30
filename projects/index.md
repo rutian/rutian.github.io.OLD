@@ -7,14 +7,22 @@ title: Projects
 ---  
 
 <div class="listing_rapper">
-	<a href="/projects/sensorytriptych">
+    <a href="/projects/mypart2016">
+  		<div class="listing_half">  
+  			<img src="{{site.url}}/media/intro.jpg">
+			<p>MyPart Wrapup</p>
+  		</div>
+	</a>
+    
+	<div class="spacer"></div>
+
+    <a href="/projects/sensorytriptych">
   		<div class="listing_half">  
   			<img src="{{site.url}}/media/plane.jpg">
 			<p>Sensory Triptych</p>
   		</div>
 	</a>
   	
-	<div class="spacer"></div>
 	
 	<a href="/projects/mypart">
   		<div class="listing_half">  
